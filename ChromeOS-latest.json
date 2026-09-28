@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "product": "Mindspark Bot",
+  "version": "1.1.40",
+  "package_url": "MAACC_Bot_ChromeOS_Update_v1.1.40_Uninstall_StopClosesTabs_20260928.msupdate",
+  "sha256": "d2c8faa5695000a2d571ee1e8bb2966fa58267b6668d85f3d2e4d1c6ac2fa51f",
+  "size": 599547,
+  "notes": "ChromeOS v1.1.40: adds in-app uninstall and makes Full Auto Stop close all bot-opened tabs."
+}
