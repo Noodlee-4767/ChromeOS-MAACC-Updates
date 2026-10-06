@@ -1,8 +1,8 @@
 {
   "format": 1,
   "product": "Mindspark Bot",
-  "version": "1.1.47",
-  "package_url": "https://raw.githubusercontent.com/Noodlee-4767/ChromeOS-MAACC-Updates/main/MAACC_Bot_ChromeOS_Update_v1.1.47_Themes_DarkWorkspace_20261006.msupdate",
-  "sha256": "015a43ac9d0b00d39778859a5306c3243f86fb9258d45347851bf5470be64755",
-  "notes": "Admin-panel-inspired dark GUI with six saved color-circle themes, Settings theme selector, rounded session/queue cards, top mute icon and Start button. More finite hover/fade effects on Windows/Ubuntu; reduced effects on ChromeOS. Hidden scrollbar, complete mascot, preserved automation and saved device connection."
+  "version": "1.1.49",
+  "package_url": "https://raw.githubusercontent.com/Noodlee-4767/ChromeOS-MAACC-Updates/main/MAACC_Bot_ChromeOS_Update_v1.1.49_EmbeddedMenus_18Themes_20261006.msupdate",
+  "sha256": "045bb7b6365f0ba53572a395d0dadc019cc99bac5342dec103ddde07212be14b",
+  "notes": "18 saved color-circle themes in a 3x6 picker; original gold palette retained, saturated green buttons and separate true red. Embedded blurred-focus menus, clear gear, prominent Add files, bright red remove/uninstall, stronger repeat separators and compact numeric controls. Preserved per-OS automation/tab limits; explicit failed-phase diagnostics and graceful setup-paused status."
 }
