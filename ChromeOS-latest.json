@@ -1,9 +1,8 @@
 {
   "format": 1,
   "product": "Mindspark Bot",
-  "version": "1.1.44",
-  "package_url": "https://raw.githubusercontent.com/Noodlee-4767/ChromeOS-MAACC-Updates/main/MAACC_Bot_ChromeOS_Update_v1.1.44_AdminPanel_20261005.msupdate",
-  "sha256": "99b4e201607403f2b72a2227714a10831ed0fdccd06469db2745ba2f7a6ebd5c",
-  "size": 605032,
-  "notes": "Connect each device to the private Admin Panel with its one-time setup code. Capture unknown Math and Hindi question evidence once per tab, send in the background, and retry queued reports. Existing answer and tab flow remains active."
+  "version": "1.1.46",
+  "package_url": "https://github.com/Noodlee-4767/ChromeOS-MAACC-Updates/releases/download/v1.1.46/MAACC_Bot_ChromeOS_Update_v1.1.46_RequiredSetup_DarkGUI_20261006.msupdate",
+  "sha256": "b651f95f66565cbe855015e8d4dd05fdd0f1600535c25da2f2856aeb961e75e4",
+  "notes": "Required one-time code verification before bot opens; connection retained across updates and progress resets; lightweight dark GUI with rounded buttons, brief hover animations, top mute icon and Settings popup; Ubuntu mute repaired."
 }
